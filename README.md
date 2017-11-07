@@ -1,4 +1,6 @@
 # CarPi
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FrGunti%2FCarPi.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FrGunti%2FCarPi?ref=badge_shield)
+
 This is the official repository for the CarPi project. 
 
 ## What is CarPi?
@@ -32,3 +34,6 @@ The project is licensed under my favorite license: **MIT**
 
 You can read more about it in the dedicated [License file](LICENSE) or here:
 https://tldrlegal.com/license/mit-license
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FrGunti%2FCarPi.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FrGunti%2FCarPi?ref=badge_large)
